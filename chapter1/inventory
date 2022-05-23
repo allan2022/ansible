@@ -1,2 +1,6 @@
 [ltm1]
 192.168.126.15
+
+[ltm1:vars]
+ansible_user=root
+ansible_password=Red8856662
