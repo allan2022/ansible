@@ -4,3 +4,10 @@
 [ltm1:vars]
 ansible_user=root
 ansible_password=Red8856662
+
+[r1]
+192.168.126.17
+
+[r1:vars]
+ansible_user=cisco
+ansible_password=cisco
